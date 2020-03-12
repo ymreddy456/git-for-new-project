@@ -1,0 +1,1 @@
+# git-for-new-project
